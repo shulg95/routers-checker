@@ -1,4 +1,4 @@
-package com.routers.engine.utils.validators;
+package com.routers.utils.validators;
 
 public interface Validator<T> {
     boolean validate(T data);
