@@ -1,0 +1,12 @@
+[{
+  "ScriptFilePath" : "src/main/resources/scripts/CiscoC720.groovy",
+  "IPv4" : "192.168.137.2",
+  "Port" : "22",
+  "Login" : "cisco",
+  "Password" : "cisco",
+  "SourceImagePath" : "disk0:",
+  "ImageName" : "c7200-a3jk9s-mz.124-25g.bin",
+  "EtalonImagePath" : "C:/routers/etalon",
+  "EtalonConfigName" : "c7200-config",
+  "EtalonConfigPath" : "D:/routers/etalon"
+}]
