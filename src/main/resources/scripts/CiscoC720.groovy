@@ -1,5 +1,6 @@
 package scripts
 
+import com.routers.config.ConfigKeys
 import com.routers.connections.SshClient
 import com.routers.engine.credentials.Credentials
 import com.routers.engine.credentials.SSHCredentials
