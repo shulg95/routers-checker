@@ -5,7 +5,7 @@
   "Login" : "cisco",
   "Password" : "cisco",
   "SourceImagePath" : "disk0:",
-  "ImageName" : "c7200-a3jk9s-mz.124-25g.bin",
+  "ImageName" : "c7200-p-mz.123-19.bin",
   "EtalonImagePath" : "C:/routers/etalon",
   "EtalonConfigName" : "c7200-config",
   "EtalonConfigPath" : "C:/routers/etalon"

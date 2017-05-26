@@ -16,7 +16,7 @@ import static com.google.common.base.Preconditions.checkNotNull;
 
 public class ConfigsComparator implements FileComparator {
 
-    private static final Logger log = LoggerFactory.getLogger(BitByBitComparator.class);
+    private static final Logger log = LoggerFactory.getLogger(ConfigsComparator.class);
 
     @Override
     public boolean compare(File targetFile, File etalonFile, File diffDestination) throws IOException {

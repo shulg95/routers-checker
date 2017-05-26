@@ -60,7 +60,7 @@ def executeScenario(Map<String, String> routerProps, Map<String, String> tftpSer
     theResult = configComparator.compare(
             new File(standardPath + "\\" + "cisco-confg"),
             new File(etalonConfigPath + "\\" + routerProps.get(ConfigKeys.ETALON_CONFIG_NAME)),
-            new File("D:/NetworkDefender/diff.txt"))
+            new File("C:/routers/diff.txt"))
     println("Validation result: " + (theResult ? "Ok" : "Invalid"))
 
     //cleaning standart directory
